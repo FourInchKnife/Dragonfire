@@ -6,8 +6,8 @@ Mount Gushmore is home to many. As the center of the land and the lair of both t
 
 ### Volcano Areas
 
-1. [The Lair](dragon-lair.md)
-2. [Cult Hideout](cult-hideout.md)
+1. [The Lair][]
+2. [Cult Hideout][cult]
 3. [The Maze][maze]
 
 ### Perks
@@ -15,14 +15,15 @@ Mount Gushmore is home to many. As the center of the land and the lair of both t
 1. is big
 2. is hot
 3. is zzzzzzzzzzzzzzzzzzzzzzzzpicy
-4. [has dragon](bbeg)
-5. [has flame cult bois](cult)
-6. [has a maze in it](maze)
+4. [has dragon][lair]
+5. [has flame cult bois][cult]
+6. [has a maze in it][maze]
 
 
 [Back to home][home]
 
-[bbeg]: /Dragonfire/groups/dragon.md
-[cult]: /Dragonfire/groups/cult/index.md
-[maze]: /Dragonfire/places/volcano/maze.md
+[lair]: dragon-lair
+[bbeg]: /Dragonfire/groups/dragon
+[cult]: /Dragonfire/groups/cult/
+[maze]: /Dragonfire/places/volcano/maze
 [home]: /Dragonfire
