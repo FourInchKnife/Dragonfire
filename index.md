@@ -1,8 +1,8 @@
-## Welcome to Dragonfire! 
+## Welcome to Dragonfire!
 
 ![A map of Depherolin](https://cdn.discordapp.com/attachments/774412067653287986/789626817727299604/Depherolin.jpg)
 
 Dragonfire is a land with a dragon, a volcano, and a lot of fire. Here's all of the crap it has:
 
 ### Table of contents
-1. [The Volcano](places/volcano.md)
+1. [The Volcano](places/volcano/volcano.md)
