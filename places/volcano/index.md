@@ -6,7 +6,7 @@ Mount Gushmore is home to many. As the center of the land and the lair of both t
 
 ### Volcano Areas
 
-1. [The Lair][]
+1. [The Lair][lair]
 2. [Cult Hideout][cult]
 3. [The Maze][maze]
 
@@ -15,7 +15,7 @@ Mount Gushmore is home to many. As the center of the land and the lair of both t
 1. is big
 2. is hot
 3. is zzzzzzzzzzzzzzzzzzzzzzzzpicy
-4. [has dragon][lair]
+4. [has dragon][bbeg]
 5. [has flame cult bois][cult]
 6. [has a maze in it][maze]
 
