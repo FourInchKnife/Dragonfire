@@ -1,4 +1,4 @@
-## Cult of Flame Hideout
+## Dragon Hideout
 
 Oops! You found an unwritten page!
 

@@ -4,6 +4,12 @@
 
 Mount Gushmore is home to many. As the center of the land and the lair of both the [Cult of Flame][cult] and the [BBEG][bbeg], Gushmore is pretty dang cool.
 
+### Volcano Areas
+
+1. [The Lair](dragon-lair.md)
+2. [Cult Hideout](cult-hideout.md)
+3. [The Maze][maze]
+
 ### Perks
 
 1. is big
