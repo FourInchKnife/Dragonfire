@@ -16,7 +16,7 @@ Mount Gushmore is home to many. As the center of the land and the lair of both t
 
 [Back to home][home]
 
-[bbeg]: dragon.md
-[cult]: cult-hideout.md
-[maze]: maze.md
+[bbeg]: /groups/dragon.md
+[cult]: /groups/cult/index.md
+[maze]: /places/volcano/maze.md
 [home]: https://fourinchknife.github.io/Dragonfire

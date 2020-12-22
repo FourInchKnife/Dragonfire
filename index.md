@@ -5,4 +5,4 @@
 Dragonfire is a land with a dragon, a volcano, and a lot of fire. Here's all of the crap it has:
 
 ### Table of contents
-1. [The Volcano](places/volcano/volcano.md)
+1. [The Volcano](places/volcano/INDEX.md)
