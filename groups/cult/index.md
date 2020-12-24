@@ -11,7 +11,7 @@ Because of the manner and frequency of the sacrifices, the local community does 
 # WIP
 
 [Back to home][home]
-[home]: /Dragonfire
 
+[home]: /Dragonfire
 [home-city]: /Dragonfire/places/home-city
 [dragon]: /Dragonfire/groups/dragon
