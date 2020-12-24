@@ -10,7 +10,8 @@ The dragon's chamber is in the center of [Mount Gushmore][volcano], so your PCs 
 
 [Back to home][home]
 
-[volcano]: /Dragonfire/places/volcano/index.md
-[cult]: /Dragonfire/groups/cult/index.md
-[maze]: /Dragonfire/places/volcano/maze.md
+[volcano]: /Dragonfire/places/volcano/
+[cult]: /Dragonfire/groups/cult/
+[maze]: /Dragonfire/places/volcano/maze
 [home]: /Dragonfire
+[house]: /Dragonfire/groups/house-wizards/
