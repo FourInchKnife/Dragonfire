@@ -15,3 +15,5 @@ The dragon's chamber is in the center of [Mount Gushmore][volcano], so your PCs 
 [maze]: /Dragonfire/places/volcano/maze
 [home]: /Dragonfire
 [house]: /Dragonfire/groups/house-wizards/
+
+<sup>(c) 2020 FourInchKnife</sup>

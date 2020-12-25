@@ -7,3 +7,5 @@ Dragonfire is a land with a dragon, a volcano, and a lot of fire. Here's all of 
 ### Table of contents
 1. [Places](places/index.md)
 2. [People](groups/index.md)
+
+<sup>(c) 2020 FourInchKnife</sup>

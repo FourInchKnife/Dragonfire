@@ -15,3 +15,5 @@ Because of the manner and frequency of the sacrifices, the local community does 
 [home]: /Dragonfire
 [home-city]: /Dragonfire/places/home-city
 [dragon]: /Dragonfire/groups/dragon
+
+<sup>(c) 2020 FourInchKnife</sup>
