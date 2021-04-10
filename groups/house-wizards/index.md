@@ -1,6 +1,6 @@
 ## The House of Wizards
 
-Oops! You found an unwritten page!
+The House of Wizards is an organization of leaders in Dragonfire. 
 
 [Back to home][home]
 
