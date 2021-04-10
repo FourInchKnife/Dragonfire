@@ -16,4 +16,4 @@ Because of the manner and frequency of the sacrifices, the local community does 
 [home-city]: /Dragonfire/places/home-city
 [dragon]: /Dragonfire/groups/dragon
 
-<sup>(c) 2020 FourInchKnife</sup>
+<sup>(c) 2021 FourInchKnife</sup>

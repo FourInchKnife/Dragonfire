@@ -25,4 +25,4 @@ Mount Gushmore is home to many. As the center of the land and the lair of both t
 [maze]: /Dragonfire/places/volcano/maze
 [home]: /Dragonfire
 
-<sup>(c) 2020 FourInchKnife</sup>
+<sup>(c) 2021 FourInchKnife</sup>

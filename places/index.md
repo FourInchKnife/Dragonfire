@@ -11,4 +11,4 @@
 
 [home]: /Dragonfire
 
-<sup>(c) 2020 FourInchKnife</sup>
+<sup>(c) 2021 FourInchKnife</sup>
